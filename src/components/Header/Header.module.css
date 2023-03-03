@@ -1,0 +1,10 @@
+.header_container {
+  display: flex;
+  justify-content: center;
+  text-align: left;
+}
+
+.header_title {
+  font-size: 25px;
+  font-weight: 400;
+}
